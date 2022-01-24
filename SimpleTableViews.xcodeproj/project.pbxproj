@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6032D6B5279F3C2600A37802 /* ElementoSeleccionadoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6032D6B4279F3C2600A37802 /* ElementoSeleccionadoViewController.swift */; };
 		60358E35279F331E00C00084 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60358E34279F331E00C00084 /* AppDelegate.swift */; };
 		60358E37279F331E00C00084 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60358E36279F331E00C00084 /* SceneDelegate.swift */; };
 		60358E39279F331E00C00084 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60358E38279F331E00C00084 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6032D6B4279F3C2600A37802 /* ElementoSeleccionadoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementoSeleccionadoViewController.swift; sourceTree = "<group>"; };
 		60358E31279F331E00C00084 /* SimpleTableViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleTableViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60358E34279F331E00C00084 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60358E36279F331E00C00084 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				60358E3D279F332000C00084 /* Assets.xcassets */,
 				60358E3F279F332000C00084 /* LaunchScreen.storyboard */,
 				60358E42279F332000C00084 /* Info.plist */,
+				6032D6B4279F3C2600A37802 /* ElementoSeleccionadoViewController.swift */,
 			);
 			path = SimpleTableViews;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6032D6B5279F3C2600A37802 /* ElementoSeleccionadoViewController.swift in Sources */,
 				60358E39279F331E00C00084 /* ViewController.swift in Sources */,
 				60358E35279F331E00C00084 /* AppDelegate.swift in Sources */,
 				60358E37279F331E00C00084 /* SceneDelegate.swift in Sources */,
